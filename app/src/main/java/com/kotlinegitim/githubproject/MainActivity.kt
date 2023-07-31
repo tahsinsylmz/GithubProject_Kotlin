@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
 
 
         //ilk commit
+        //ikinci commit
     }
 }
