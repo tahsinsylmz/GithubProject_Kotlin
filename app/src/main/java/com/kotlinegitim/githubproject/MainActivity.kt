@@ -11,5 +11,6 @@ class MainActivity : AppCompatActivity() {
 
         //ilk commit
         //ikinci commit
+        //üçüncü commit
     }
 }
